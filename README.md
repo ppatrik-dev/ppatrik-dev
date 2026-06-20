@@ -1,6 +1,6 @@
 # 🏓 Patrik Procházka
 
-My name is Patrik Procházka and I come from southern Slovakia. I have always been fascinated by technology. I completed the grammar school, where I gained strong mathematical knowledge and basic programming skills. Later, I continued improving my programming skills in my free time through self-study and practice. Then I started studying at the Brno University of Technology, which I saw as a challenge and an opportunity for me to expand my knowledge. I successfully completed my Bachelor's degree in Computer Science at the Faculty of Information Technology. Currently, I am continuing my studies in the Master's degree program to further deepen my knowledge and expertise in the field.
+My name is Patrik Procházka and I come from southern Slovakia. I have always been fascinated by technology. I completed the grammar school, where I gained strong mathematical knowledge and basic programming skills. Later, I continued improving my programming skills in my free time through self-study and practice. Then I started studying at the Brno University of Technology, which I saw as a challenge and an opportunity for me to expand my knowledge. I successfully completed my **Bachelor's degree** in Computer Science at the **Faculty of Information Technology**. Currently, I am continuing my studies in the Master's degree program to further deepen my knowledge and expertise in the field.
 
 ---
 ### Languages and Tools
